@@ -1,0 +1,57 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+
+* What has been easy?
+  
+
+* What has been difficult?
+  
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+---
+
+Your response goes here!
+
+•What new skills have you learned?
+
+I revised some points in the web page "building", learned new html elements, and its properties that can change them visually.
+Indentified some visual patterns and "factorized" them into the CSS. Initially you do an analisys as a start point, but carefully, so the CSS can start and stays minimally well-structured as you need to change it, editing the HTML and iterating through testing the "boxes" and visually comparing the page being construted with the mockup image.
+(The analisys, although visual, can be done, and after modeling a "mental" project or plan in mind, carefully and allocating time for this, then I start with some similar html and css that already had made and is functioning without "errors".
+Then I enter into the details and iterate to capture every detail and mapping it directly in the HTML or through CSS.
+The CSSs have been assessed as unnecessary, since in the case of bootstrap no grid layout was necessary. This may be undertand by me as a wrong choice as the initial strating point or a bad "mental design", 
+believing some kind of "compartimentation" or "division in boxes through rows and coluns could be revealed into the iterating process of testing. That was not the case. So I understand I complicated what could be simpler.
+You can format (improve look-and-feel), althought IMO, it´s only useful the first commit in Git repository, for examplo. Why? Because if eveyone formts the page after a little or big corrrection, the work of merging or commits changes that shows clearly what was changed or modified by the developer to fix a bug for examplo, or insert a new functionality are totally jeopardize by this formatting, as the Control version Tool, may appoint as changes several places or indicates that all document was transformed and altered, and then,
+we return for the visual, slow, error-prone validation of the commit or merge of code. A beutuful thing for the developer but nullify the work of who validade changes that must enter the code and what must be tested and validate by some other people that play this role of versioning validation for testing.
+We can verify if the document is well formed, i this case, I only see advantages, for the integrity and predictability of renderization on several browsers (may help a lot at least).
+
+•What has been easy?
+
+Analysing and mentally making a logical propject using the concepts of "boxes" and others structural elements. 
+Starting with some already well done work that I identified as a kind of "pattern".
+That's not so easy since I was wrong about using divisors (<div>0 and grid layout for the rows.
+Now I could only say that what is easy is simplyfy the index.html, but since my work is not appoved yet, nothing I can say is easy until now.
+
+•What has been difficult?
+
+Identifying which font was used. I tried two sites but both failed by far, so I choose a font that I consider usual and alike. This part I did not very well.
+See some subtle details;
+I can see some diferences in the margins, font style and levels of itensity in "boldeness" for some part of the the mock and my design result, but i was not able to treat the subtle differences using only HTML, maybe because of skill lack in the HTML, tried to find a solution but I can only see it at the moment using styles, which implies CSSs,
+I felt deadlocked and leave it as it is, maybe it is irrelevant for the assessement, I'll discover...
+
+•How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+-Used Mozilla guide development site search for new elements like <hr>, <strike> (<s>) and StackOverflow for the horizontal rule "stressing";
+-Used other project as a starting point after an anlysis and mapping to the most near "pattern" I could identified;
+-Used CSS to speed up the development, mainly in the several last iterations to modify and be near to the mockup image.
+-In this second version, paid attention to the good and precise recomendations in the review, I hope the changes I've made can be sufficient to match the mocup visually and "codely", let's see.
+
+OK, let's if this time I left something to improve or correct. I feel close to full accomplishment.
+
+- Prateek Chanda
